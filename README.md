@@ -35,7 +35,6 @@ WAIT:  JNB TF0, WAIT
 END
 
 ```
-
 ## OUTPUT
 <img width="453" height="483" alt="image" src="https://github.com/user-attachments/assets/4428a990-ee36-4e50-af0d-5b4b8d00eda9" />
 <img width="996" height="636" alt="image" src="https://github.com/user-attachments/assets/95dd3532-9ba0-400c-bc4d-fa0e4c8dce43" />
