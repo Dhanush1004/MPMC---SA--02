@@ -37,9 +37,7 @@ END
 ```
 ## OUTPUT
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4428a990-ee36-4e50-af0d-5b4b8d00eda9" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/95dd3532-9ba0-400c-bc4d-fa0e4c8dce43" />
-
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/95dd3532-9ba0-400c-bc4d-fa0e4c8dce43" />
 
 ## RESULT
 The program toggles Port 0.1 continuously, with each transition occurring after a delay of approximately 200 µs, thus generating a square waveform at P0.1
-
